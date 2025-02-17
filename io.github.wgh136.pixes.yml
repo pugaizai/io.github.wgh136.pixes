@@ -52,7 +52,7 @@ modules:
     sources:
       - type: git
         url: https://github.com/wgh136/pixes.git
-        tag: v1.1.0
+        tag: v1.1.1
         commit: cbc69b4707b068a5cc6ec3df87741a9658288b33
         x-checker-data:
           type: git
