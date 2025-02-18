@@ -1414,7 +1414,7 @@
     {
         "type": "archive",
         "archive-type": "tar-gzip",
-        "url": "https://github.com/pugaizai/flathub/releases/download/pub-git-cache/pub-git-cache.tar.gz",
+        "url": "https://github.com/pugaizai/flatpak/releases/download/pub-git-cache/io.github.wgh136.pixes.tar.gz",
         "sha256": "84fd275126256930ed86002e4867b07ed110b46cdd2ef8ee7ab7595e3ef5c09f",
         "dest": ".pub-cache"
     }

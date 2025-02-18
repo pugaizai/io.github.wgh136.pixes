@@ -53,4 +53,3 @@ modules:
       - type: shell
         commands:
           - rm -f flutter/engine/src/.gn
-
